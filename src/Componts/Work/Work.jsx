@@ -20,7 +20,7 @@ export const images = [
   { id: 7, category: "apps", src: img5 },
   { id: 8, category: "apps", src: img6 },
 ];
-ّ
+
 
 
 export default function Work() {
