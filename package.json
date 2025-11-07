@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dinasayedddd.github.io/react-portfolio",
+  "homepage": "https://mohamed-esmat.github.io/dina-react-portfolio-upskilling",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
